@@ -17,5 +17,8 @@
   "newsletterName": "Money Heist MD ツ",
   "serverMessageId": "999",
   "PoweredBy": "> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴏɴᴇʏ ʜᴇɪꜱᴛ™*",
-  "DewNumbers": ["94777839446", "94717339446"]
+  "DewNumbers": ["94777839446", "94717339446"],
+  "AliveImg": "https://github.com/jayaklaj/esabatad/raw/main/aidem/egami/evila.png",
+  "MenuImg": "https://github.com/jayaklaj/esabatad/raw/main/aidem/egami/evila.png",
+  "AliveMsg": "Hei alive now"
 }
